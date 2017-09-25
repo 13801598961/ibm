@@ -1,0 +1,101 @@
+
+span{
+	font-family:"iconfont";
+}
+h1,h2{
+	list-style:none;
+}
+#buy{
+	height:100%;
+	width:360px;
+	.bu{
+		float:right;
+		margin-top:15px;
+		margin-right:20px;
+		background:#fff;
+		border:none;
+		font-weight:bold;
+		outline:none;
+		font-size:20px;
+	}
+	.piaox{
+		float:left;
+		height:2px;
+		width:360px;
+		background:black;
+		margin-top:20px;
+	}
+	.pit{
+		clear:both;
+		line-height:40px;
+		text-align:left;
+		height:40px;
+		width:100%;
+		.combo{
+			font-size:18px;
+		}
+
+	}
+	.pit:hover{
+		background:#3b6caa;
+		color:#fff;
+	}
+	.list{
+		height:40px;
+		width:100%;
+		line-height:40px;
+		text-align:left;
+		.array{
+			font-size:18px;
+		}
+	}
+	.list:hover{
+		background:#3b6caa;
+		color:#fff;
+	}
+	#menu {
+		float:left;
+		line-height:40px;
+		text-align:left;
+		height:40px;
+		width:100%;
+	}
+	 h1{
+		height:40px;
+		width:100%;
+		line-height:40px;
+		text-align:left;
+		font-size:18px;
+		color:#323232;
+		font-weight:normal;
+		p{
+			float:right;
+			font-size:35px;
+		}
+	}
+	#menu h2{ 
+		font-size:18px;
+		font-weight:normal;
+		margin-top:20px;
+		margin-left:20px;
+	}
+	.no {
+		display: none;
+	}
+	.june{
+		height:40px;
+		width:100%;
+		line-height:40px;
+		text-align:left;
+		.will{
+			font-size:18px;
+		}
+	}
+	.june:hover{
+		background:#3b6caa;
+		color:#fff;
+	}
+	
+
+}
+		
